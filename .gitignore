@@ -163,4 +163,4 @@ cython_debug/
 # *.jpg:Zone.Identifier
 
 
-weaviate_data
+weaviate_persistence
