@@ -25,6 +25,7 @@ langchain-google-genai = "^2.0.1"
 weaviate-client = "^4.8.1"
 langchain-weaviate = "^0.0.3"
 gpt4all = "^2.8.2"
+gradio = "^5.0.1"
 
 
 [build-system]
