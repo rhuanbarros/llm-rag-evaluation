@@ -10,6 +10,19 @@ python = ">=3.11,<3.13"
 ipykernel = "^6.29.5"
 python-dotenv = "^1.0.1"
 unstructured = {extras = ["all-docs"], version = "^0.15.13"}
+trulens = "^1.1.0"
+trulens-apps-langchain = "^1.1.0"
+trulens-providers-openai = "^1.1.0"
+openai = "^1.51.2"
+langchain = "^0.3.3"
+langchainhub = "^0.1.21"
+langchain-openai = "^0.2.2"
+langchain-community = "^0.3.2"
+faiss-cpu = "^1.9.0"
+bs4 = "^0.0.2"
+tiktoken = "^0.8.0"
+langchain-google-genai = "^2.0.1"
+weaviate-client = "^4.8.1"
 
 
 [build-system]
