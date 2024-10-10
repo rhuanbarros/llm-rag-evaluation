@@ -164,3 +164,6 @@ cython_debug/
 
 
 weaviate_persistence
+src/.gradio
+src/.ipynb_checkpoints
+src/default.sqlite
