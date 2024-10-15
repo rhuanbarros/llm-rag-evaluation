@@ -23,7 +23,8 @@
     - mmr maxmimal marginal relevance
     - autocut
 - retieval techinques
-    - sentence window
+    - only chunks
+    - sentence window - ParentDocumentRetriever
     - automerging retrieval
 
 - reranking
