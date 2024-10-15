@@ -1,0 +1,37 @@
+- Create a set of questions based in the documents
+- ajustar o prompt para responder em portugues
+- usar history
+- prompt techniques to reduce halucination
+    - COT chain of thoght
+    - thread of thought
+    - chain of note
+    - chain of verification
+    - emotion prompt
+    - expert prompt
+- chunking techniques
+    - character
+    - recursive character
+    - sentence spliter
+    - semantic spliter
+    - propositions
+- embeding model
+    - use one better for multilligual
+    - gemini
+- vector store
+    - semantic seach (vector)
+    - hybrid search
+    - mmr maxmimal marginal relevance
+    - autocut
+- retieval techinques
+    - sentence window
+
+- reranking
+    - ?
+- guardrails
+    - input
+    - output
+- query rewriter
+    - hyde
+    - subqueries
+
+

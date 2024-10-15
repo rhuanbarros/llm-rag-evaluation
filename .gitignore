@@ -167,3 +167,6 @@ weaviate_persistence
 src/.gradio
 src/.ipynb_checkpoints
 src/default.sqlite
+
+.devcontainer
+weaviate_persistence2
