@@ -24,6 +24,7 @@
     - autocut
 - retieval techinques
     - sentence window
+    - automerging retrieval
 
 - reranking
     - ?
