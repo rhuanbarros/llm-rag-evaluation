@@ -22,7 +22,7 @@
     - hybrid search
     - mmr maxmimal marginal relevance
     - autocut
-- retieval techinques
+- retrieval techinques
     - only chunks
     - sentence window - ParentDocumentRetriever
     - automerging retrieval
