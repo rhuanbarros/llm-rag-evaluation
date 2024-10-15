@@ -170,3 +170,4 @@ src/default.sqlite
 
 .devcontainer
 weaviate_persistence2
+weaviate_persistence3
